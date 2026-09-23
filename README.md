@@ -95,7 +95,7 @@ These are questions for the people who wrote the files. They are not requests to
 
 ## Invitations
 
-The people named above are the authors of KCC-0, KCC-1, KCC-2, and KCC-20, and the authors of the open pulls this reading depends on. Each login is invited as a collaborator with no permission to change these files. Accepting is optional. A comment on the issue is enough.
+The people named above are the authors of KCC-0, KCC-1, KCC-2, and KCC-20, and the authors of the open pulls this reading depends on. This account is a user account, so GitHub's invitation is write access. A read-only invitation was rejected. Accepting is optional. A comment is the useful reply. Declining the invitation is a complete reply too.
 
 Logins: IzioDev, michaelsutton, someone235, Manyfestation, saefstroem, supertypo, ShawnPearce, Knitser.
 
