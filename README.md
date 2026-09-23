@@ -97,7 +97,7 @@ These are questions for the people who wrote the files. They are not requests to
 
 The people named above are the authors of KCC-0, KCC-1, KCC-2, and KCC-20, and the authors of the open pulls this reading depends on. This account is a user account, so GitHub's invitation is write access. A read-only invitation was rejected. Accepting is optional. A comment is the useful reply. Declining the invitation is a complete reply too.
 
-Logins: IzioDev, michaelsutton, someone235, Manyfestation, saefstroem, supertypo, ShawnPearce, Knitser.
+Write invitations were sent to IzioDev, michaelsutton, someone235, Manyfestation, saefstroem, ShawnPearce, and Knitser. The invitation to supertypo was not delivered. Pull #23 is still cited in proposition 3.
 
 KCC-0012 is named only as a Draft. This repository does not add a comment on kaspanet/kccs#24.
 
