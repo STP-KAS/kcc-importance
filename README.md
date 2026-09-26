@@ -71,7 +71,7 @@ None of these pulls are on main. A monetary argument written on top of two layou
 
 KRC-20 is a third object. An indexer interprets it. It is not this covenant, and it is not KCC-20. An indexer-interpreted supply puts the trust in software the consensus does not run. A covenant is the stricter room. It is still only as decentralized as the keys the covenant obeys.
 
-The [master file](https://github.com/STP-KAS/kaspa-master-file/commit/e479e5586110fa26b4263d32b4937db4d59ebc07) Now board, read at `e479e55`, holds the same status words: KCC-0 Final in the file, the README index still Draft, KCC-20 Draft, no spendable L1 stable. This note does not move those pins.
+The [master file](https://github.com/STP-KAS/kaspa-master-file/commit/51bd4b24f8effda0d13876fa4f399f61033a8b15) Now board, read at `e479e55`, holds the same status words: KCC-0 Final in the file, the README index still Draft, KCC-20 Draft, no spendable L1 stable. This note does not move those pins.
 
 ## Three ways to finish the sentence
 
