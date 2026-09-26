@@ -83,7 +83,7 @@ Assert-True "kip-20 Active" ($kip -match "(?m)^Status: $($pins.kip20_status)\s*$
 $kipsMain = gh api repos/kaspanet/kips/commits/master --jq .sha
 Assert-True "kips master" ($kipsMain -eq $pins.kips_master) "live $kipsMain"
 
-$masterDir = "C:\Users\<user>\kaspa-master-file-git"
+$masterDir = "$env:USERPROFILE\kaspa-master-file-git"
 $masterHead = (git -C $masterDir rev-parse HEAD).Trim()
 Assert-True "master file head" ($masterHead -eq $pins.master_file) "live $masterHead"
 $masterReadme = Get-Content -Raw (Join-Path $masterDir "README.md")
